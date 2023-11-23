@@ -1,5 +1,10 @@
 # Azure DevOps (N)evergreen Dashboard
 
+| :exclamation:  New Kid in Town   |
+|:---------------------------|
+| This Repo has been superseeded by [MatthiasKainer/catgreen](https://github.com/MatthiasKainer/catgreen), which also supports GitHub! |
+
+
 This is a dashboard that either shows your failing builds, or a random cat gif if there's nothing failing
 
 ## Usage
